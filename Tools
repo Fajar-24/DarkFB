@@ -1,0 +1,22 @@
+clear
+figlet "Tools"
+echo "========================"
+echo "Author : FajarCyber"
+echo "Kontak : 08817805411"
+echo "Github : https://github.co>
+echo "========================"
+    echo    "√√√√√√√√√√√√√√√√√"
+    echo     "###############"
+    echo      "•••••••••••••"
+    echo       "-----------"
+    echo        "•[ngntd]•"
+    echo         "'''''''"
+            echo  "×××××"
+    echo           "~~~"
+        echo        "÷"
+echo
+echo "pilih menu Tools nya"
+echo "[1] DarkFB"
+echo "[2] MBF"
+echo "[3] Install Bahan"
+read -p "[?] pilih : " pil:
